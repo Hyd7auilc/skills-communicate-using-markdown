@@ -7,3 +7,5 @@
 
 
 #### I changed this by adding headers all the way from h1 to h6!
+
+![Image of Kasane Teto](https://i.pinimg.com/originals/f5/55/db/f555db9031291c32d774e0092f09129a.jpg)
