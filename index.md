@@ -10,8 +10,10 @@
 
 ![Image of Kasane Teto](https://i.pinimg.com/originals/f5/55/db/f555db9031291c32d774e0092f09129a.jpg)
 
+```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-
- javascript
+```
+``` javascript
 var myVar = "Hello, world!";
+```
